@@ -1,25 +1,22 @@
-## Introduction
+In Scratch you can use `stamp` {.blockpen} to draw a copy of a sprite's costume on the stage. 
 
-Add project description here. What will learners be making?
+Try clicking the `stamp` {.blockpen} in the palette...
 
-### What you will make
+![screenshot](images/stamp-block-palette.png)
 
-Add something here to showcase here, for example:
+...to create a copy of your sprite's costume. Drag your sprite to see the copy. 
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+![screenshot](images/stamp-sprite.png)
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
+Here's an example that creates a row of stamps and then hides the actual sprite:
 
-### What you will learn
+![screenshot](images/stamp-row.png)
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+You could use it to create a repeating background like this forest of trees:
 
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level)
+![screenshot](images/stamp-row-trees.png)
 
-### Additional information for educators
+You can't move or change the stamps with code. You can use `clear` {.blockpen} to remove them. 
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+
