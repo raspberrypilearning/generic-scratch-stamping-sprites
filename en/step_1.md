@@ -1,6 +1,6 @@
-In Scratch you can use `stamp` {.blockpen} to draw a copy of a sprite's costume on the stage. 
+In Scratch you can use `stamp` {:class="blockpen"} to draw a copy of a sprite's costume on the stage. 
 
-Try clicking the `stamp` {.blockpen} in the palette...
+Try clicking the `stamp` {:class="blockpen"} in the palette...
 
 ![screenshot](images/stamp-block-palette.png)
 
@@ -16,7 +16,7 @@ You could use it to create a repeating background like this forest of trees:
 
 ![screenshot](images/stamp-row-trees.png)
 
-You can't move or change the stamps with code. You can use `clear` {.blockpen} to remove them. 
+You can't move or change the stamps with code. You can use `clear` {:class="blockpen"} to remove them. 
 
 
 
